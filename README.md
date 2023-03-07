@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Thomás caldana. Welcome to my profile page.
+I'm Thomás Caldana. 
 
 Feel free to contact me anything <a href="https://www.linkedin.com/in/thom%C3%A1s-caldana-721694172/" >[Here]<a>
 
@@ -29,10 +29,6 @@ I’m currently learning:
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 <br>
- <br>
-<p> 
-Conect with me:
-  <br>
  <br>
 
   
