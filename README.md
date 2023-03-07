@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Thomás Caldana 👋
 
 <!--
 **thomascaldana/thomascaldana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Thomás Caldana. 
+ 
 
 Feel free to contact me anything <a href="https://www.linkedin.com/in/thom%C3%A1s-caldana-721694172/" >[Here]<a>
 
