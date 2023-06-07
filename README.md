@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 
 Feel free to contact me anything <a href="https://www.linkedin.com/in/thom%C3%A1s-caldana-721694172/" >[Here]<a>
 
-I’m currently learning:
+ - 🎓 &nbsp; Self-taught. 
+ - 🌱 &nbsp; I’m currently learning more about React.js and Node.js and soon React Native.
+ 
 <br>
 <br>
+ 
+ 🚀  My Skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
