@@ -3,7 +3,7 @@
 ### Hello, I'm Thomás Caldana 👋
 
  <br>
-Feel free to contact me anything <a href="https://www.linkedin.com/in/thom%C3%A1s-caldana-721694172/" >[Here]<a>
+👨‍💻 Feel free to contact me anything <a href="https://www.linkedin.com/in/thom%C3%A1s-caldana-721694172/" >[Here]<a>
 
  - 🎓 &nbsp; Self-taught. 
  - 🌱 &nbsp; I’m currently learning more about React Native and Node.js.
@@ -31,6 +31,7 @@ Feel free to contact me anything <a href="https://www.linkedin.com/in/thom%C3%A1
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="338" height="218" /> 
 
  <br>
+  <br>
 
  💼 Any freelance work? Get in touch <a href="https://www.linkedin.com/in/thom%C3%A1s-caldana-721694172/" >[Here]<a> :)
 
