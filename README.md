@@ -1,26 +1,9 @@
 ### Hello, I'm Thomás Caldana 👋
-
-<!--
-**thomascaldana/thomascaldana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
  
-
 Feel free to contact me anything <a href="https://www.linkedin.com/in/thom%C3%A1s-caldana-721694172/" >[Here]<a>
 
  - 🎓 &nbsp; Self-taught. 
- - 🌱 &nbsp; I’m currently learning more about React.js and Node.js and soon React Native.
+ - 🌱 &nbsp; I’m currently learning more about React Native and Node.js.
  
 <br>
 <br>
