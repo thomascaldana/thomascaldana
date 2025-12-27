@@ -26,7 +26,6 @@
   
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomascaldana&layout=compact&show_icons=true&theme=algolia&border_radius=20)
   
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thomascaldana&theme=nord_dark)
 
  <img align="center" alt="GIF" src="https://github.com/thomascaldana/READ-ME/blob/main/assets/thomas_grafico_comprimido.gif" width="338" height="338" /> 
 
